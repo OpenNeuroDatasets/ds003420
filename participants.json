@@ -13,6 +13,11 @@
   "age": {
     "Description": "age of the participant",
     "Units": "years"
+  },
+  "education_level": {
+    "Description": "Education level, self-rated by participant",
+    "Levels": {
+      "1": "Student at university",
+      "2": "Has degree from university"
   }
-  
 }
